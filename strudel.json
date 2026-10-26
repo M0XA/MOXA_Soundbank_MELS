@@ -1,7 +1,7 @@
 {
 "_base": "https://raw.githubusercontent.com/M0XA/MOXA_Soundbank_MELS/main/",
   
-"fx_made": "Sounds/FOX_made.wav",
+"fox_made": "Sounds/FOX_made.wav",
 "fx_sea": ["Sounds/FX_sea1"],
 "fx_underwater": ["Sounds/FX_underwater1.wav"]
   
